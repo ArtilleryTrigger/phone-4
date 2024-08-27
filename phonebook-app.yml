@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: 2010-09-09
+2AWSTemplateFormatVersion: 2010-09-09
 Description: |
   CloudFormation Template for Phonebook Application. This template creates Application Load Balancer 
   with Auto Scaling Group of Amazon Linux 2023  EC2 Instances which host Python Flask Web Application.
